@@ -10,3 +10,8 @@ submission/
 .DS_Store
 ASSIGNMENT_IMPLEMENTATION_GUIDE.md
 *.personal.md
+WALKTHROUGH_SCRIPT.md
+mobile_script.html
+SUBMISSION_EMAIL.md
+run.bat
+run.ps1
